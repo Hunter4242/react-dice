@@ -1,3 +1,7 @@
+I just wanted to make something to roll some simple dice.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
